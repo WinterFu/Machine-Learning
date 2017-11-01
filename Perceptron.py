@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import numpy as np 
 
 def Percep(X_train, Y_train):
